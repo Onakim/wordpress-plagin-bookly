@@ -1,1 +1,1 @@
-# wordpress-plagin-bookly
+# wordpress-plugin-bookly
